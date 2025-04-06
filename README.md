@@ -111,4 +111,3 @@ print(predictor.predict([4, 17, 12]))  # Output: '10-26-26'
 
 ## 📜 License
 MIT License - See [LICENSE](LICENSE) for details
-```
